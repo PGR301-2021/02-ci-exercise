@@ -5,11 +5,15 @@ package com.example.demo;
  */
 public class Game {
 
+    private int score;
+
+
     void roll(int pins) {
+        score += pins;
     }
 
     int score() {
-        return 0;
+        return score;
     }
 
 }
