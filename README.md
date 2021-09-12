@@ -4,7 +4,7 @@
 I denne leksjonen skal vi se på viktige prinsipper som 
 
 - Trunk based development 
-- Feature branch
+- Feature branches
 - Branch Locking 
 - Pull request
 
