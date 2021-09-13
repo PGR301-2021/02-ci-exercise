@@ -14,6 +14,7 @@ public class BowlingScoreApplication {
     }
 
 
+
     @Bean
     public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
         return args -> {
